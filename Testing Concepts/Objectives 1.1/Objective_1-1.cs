@@ -11,7 +11,8 @@ namespace Objective
     //
     // Written By: Antwoin Davis
     //
-    // This program showcases threading. Creates a thread of threadMethod and runs for loop on the main thread.
+    // This program showcases threading. It creates a foreground thread of threadMethod, a background thread of ExcuteInBackground,
+    // and runs for loop on the main thread.
     // This example shows how multiple threads can run at one time.  
     //
 
